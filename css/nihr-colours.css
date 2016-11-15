@@ -1,0 +1,43 @@
+.funding {
+    border-top: 0.5em solid #76bc43;
+}
+.research {
+    border-top: 0.5em solid #006648;
+}
+.ppi {
+    border-top: 0.5em solid #f08c21;
+}
+.partnerships {
+    border-top: 0.5em solid #00964c;
+}
+.industry {
+    border-top: 0.5em solid #9a0050;
+}
+.faculty {
+    border-top: 0.5em solid #312565;
+}
+.nihrarea {
+    border-top: 0.5em solid #e1261c;
+}
+.about {
+    border-top: 0.5em solid #0083bf;
+}
+.news {
+    border-top: 0.5em solid #99ccff;
+}
+.landing-image-text {
+    background: rgba(0, 0, 0, 0.75) none repeat scroll 0 0;
+    color: #fff;
+}
+.campaign-intro-text {
+    border-top: 2px solid #01aecf;
+    background-color: #0d73b7;
+    color: #fff;
+    font-weight: 600;
+}
+#top_line {
+    background-color: #63b443;
+    height: 11px;
+    overflow: hidden;
+    width: auto;
+}

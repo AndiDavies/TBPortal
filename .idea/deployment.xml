@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Apache local">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\TBPortal" local="$PROJECT_DIR$" web="/TBPortal" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
