@@ -1,0 +1,60 @@
+
+/** Styling of the asp .net apps*/
+.header-netscc {
+    height: 52px;
+    background-color: #0d73b7;
+}
+
+.header-inner {
+    border-radius: 4px;
+    border-top: 2px solid #0083bf;
+    background-color: #99ccff;
+    color: #fff;
+    margin-top: 2px;
+}
+
+.netscc-footer {
+    height: 37px;
+    border-radius: 4px;
+    border-bottom: 2px solid #01aecf;
+    background-color: #0d73b7;
+    color: #fff;
+}
+
+/** nihr color banner */
+.netscc-banner {
+    top: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    margin-left: 0.97%
+}
+
+.banner-funding {
+    background-color: #76bc43;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-research {
+    background-color: #006648;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-ppi {
+    background-color: #f08c21;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-partnerships {
+    background-color: #00964c;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-industry {
+    background-color: #9a0050;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-faculty {
+    background-color: #312565;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-nihrarea {
+    background-color: #e1261c;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-about {
+    background-color: #0083bf;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
+.banner-news {
+    background-color: #99ccff;float: left;height: 0.5em;width: 11.11%;list-style-type: none;
+}
