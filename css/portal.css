@@ -23,6 +23,55 @@
     color: #fff;
 }
 
+/** background box colors 60% of banner colors**/
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#NKRD {
+    background-color: #76bc43;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#NKRD h3 {
+    color: #ffffff;
+    font-weight: bold;
+       }
+#NETSCCD {
+    background-color: #006648;
+    border-bottom: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#External {
+    background-color: #f08c21;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#NIHRD {
+    background-color: #00964c;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#Portfolio {
+    background-color: #9a0050;
+    border-bottom: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#Help {
+    background-color: #312565;
+    border-right: 1px solid #ffffff;
+    height: 33.3333333%;
+}
+#Sharepoint {
+    background-color: #e1261c;
+    height: 33.3333333%;
+}
+
+
 /** nihr color banner */
 .netscc-banner {
     top: 0;
