@@ -1,8 +1,10 @@
 
+
 /** Styling of the asp .net apps*/
 .header-netscc {
     height: 52px;
     background-color: #0d73b7;
+    margin-bottom: 10px;
 }
 
 .header-inner {
